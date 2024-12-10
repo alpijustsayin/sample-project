@@ -7,14 +7,14 @@ body {
 }
 
 header {
-    background-color: #6200ea;
+    background-color: #98ea00;
     color: white;
     padding: 10px 0;
 }
 
 button {
     padding: 10px 20px;
-    background-color: #6200ea;
+    background-color: #98ea00;
     color: white;
     border: none;
     border-radius: 5px;
@@ -22,6 +22,6 @@ button {
 }
 
 button:hover {
-    background-color: #3700b3;
+    background-color: #98ea00;
 }
 
